@@ -1,6 +1,6 @@
 # Meal Reccommender System
 
-This project involves the processing of a dataset in order to make it suitable as a component in a **Personalized meal recommender system**.
+This project involves the processing of a dataset in order to make it suitable as a component in a **Personalized Meal Recommending System**.
 
 The dataset should model the meals inside it through structured semantic features so a recommendation score can be computed.
 
